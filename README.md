@@ -7,7 +7,7 @@ My background in administration and technology has given me both **organizationa
 
 📍 Based in **Aalst, Belgium**  
 🌐 Open to international collaboration and online learning  
-💬 Multilingual: 💬 Multilingual: 💬 Multilingual: Arabic (Native), Spanish (C2), French (B2), Dutch (B1), English (Professional working proficiency) 
+💬 Multilingual: Arabic (Native), Spanish (C2), French (B2), Dutch (B1), English (Professional working proficiency) 
 
 ---
 
