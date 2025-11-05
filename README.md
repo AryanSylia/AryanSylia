@@ -29,17 +29,6 @@ My focus is on understanding how systems are monitored, secured, and analyzed to
 
 ### ⚙️ Skills & Tools  
 
-| Category | Tools / Technologies |
-|-----------|---------------------|
-| 💻 OS & Platforms | macOS · Windows |
-| 🧠 Learning Platforms | TryHackMe |
-| 🧰 Technical Tools | Python |
-| 📂 Productivity | Notion · Microsoft 365 · Photoshop |
-| 🔐 Security Concepts | MITRE ATT&CK · Log Analysis · Network Forensics |
-
-> _Note:_ **Current level:** *Junior security analyst in training* — building practical foundations through TryHackMe and hands-on Blue Team labs.
-/ I learn continuously via **TryHackMe** and Blue Team labs — my goal is to reach **SOC Level 1** competence through hands-on labs and small projects.
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
@@ -52,8 +41,8 @@ My focus is on understanding how systems are monitored, secured, and analyzed to
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Multilingual](https://img.shields.io/badge/Multilingual-8A2BE2?logo=google-translate&logoColor=white)
 
-
-
+> _Note:_ **Current level:** *Junior security analyst in training* — building practical foundations through TryHackMe and hands-on Blue Team labs.
+/ I learn continuously via **TryHackMe** and Blue Team labs — my goal is to reach **SOC Level 1** competence through hands-on labs and small projects.
 
 
 
