@@ -70,7 +70,7 @@ My focus is on understanding how systems are monitored, secured, and analyzed to
 ---
 
 ### 📫 Connect with Me  
-- 🌐 [TryHackMe Profile]([https://tryhackme.com/](https://tryhackme.com/p/Aryan2025))  
+- 🌐 [TryHackMe Profile](https://tryhackme.com/p/Aryan2025))  
 - 💼 [LinkedIn](https://www.linkedin.com)  
 - 📧 sylia.es2022@gmail.com  
 - 🇧🇪 Aalst, Belgium  
