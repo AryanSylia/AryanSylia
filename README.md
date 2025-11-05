@@ -7,7 +7,9 @@ My background in administration and technology has given me both **organizationa
 
 📍 Based in **Aalst, Belgium**  
 🌐 Open to international collaboration and online learning  
-💬 Multilingual: ![Arabic](https://img.shields.io/badge/Arabic-Native-red?style=for-the-badge)
+💬 Multilingual: 
+
+![Arabic](https://img.shields.io/badge/Arabic-Native-red?style=for-the-badge)
 ![Spanish](https://img.shields.io/badge/Spanish-C2-yellow?style=for-the-badge)
 ![French](https://img.shields.io/badge/French-B2-blue?style=for-the-badge)
 ![Dutch](https://img.shields.io/badge/Dutch-B1-orange?style=for-the-badge)
