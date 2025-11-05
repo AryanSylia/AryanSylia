@@ -4,15 +4,14 @@
 Ambitious and curious professional with a strong passion for **cybersecurity**, **digital systems**, and **continuous learning**.  
 I enjoy understanding how systems work — and how to protect them.  
 My background in administration and technology has given me both **organizational precision** and **analytical thinking**, now directed toward mastering **Blue Team** operations and **SOC analysis**.
-
-📍 Based in **Aalst, Belgium**  
+ 
 🌐 Open to international collaboration and online learning  
 💬 Multilingual: 
 
-![Arabic](https://img.shields.io/badge/Arabic-Native-red?style=for-the-badge)
-![Spanish](https://img.shields.io/badge/Spanish-C2-yellow?style=for-the-badge)
-![French](https://img.shields.io/badge/French-B2-blue?style=for-the-badge)
-![Dutch](https://img.shields.io/badge/Dutch-B1-orange?style=for-the-badge)
+![Arabic](https://img.shields.io/badge/Arabic-Native-red?style=for-the-badge) / 
+![Spanish](https://img.shields.io/badge/Spanish-C2-yellow?style=for-the-badge) / 
+![French](https://img.shields.io/badge/French-B2-blue?style=for-the-badge) / 
+![Dutch](https://img.shields.io/badge/Dutch-B1-orange?style=for-the-badge) / 
 ![English](https://img.shields.io/badge/English-Professional%20Working%20Proficiency-0078D6?style=for-the-badge)
  
 
@@ -78,13 +77,6 @@ My focus is on understanding how systems are monitored, secured, and analyzed to
 - 📘 **Thawrat Al-Dakhil (The Income Revolution)** — A personal finance book under development.  
 - 🧩 **Oracle Deck Project** — A digital art and spirituality project exploring symbolic systems.  
 
----
-
-### 📫 Connect with Me  
-- 🌐 [TryHackMe Profile](https://tryhackme.com/p/Aryan2025)  
-- 💼 [LinkedIn](https://www.linkedin.com)  
-- 📧 sylia.es2022@gmail.com  
-- 🇧🇪 Aalst, Belgium  
 
 ---
 
