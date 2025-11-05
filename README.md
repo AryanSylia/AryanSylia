@@ -1,4 +1,4 @@
-# Arya Essatti | Cybersecurity & Digital Growth  
+# Aryan Essatti | Cybersecurity & Digital Growth  
 
 ### 🧭 About Me  
 Ambitious and curious professional with a strong passion for **cybersecurity**, **digital systems**, and **continuous learning**.  
