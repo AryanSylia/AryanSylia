@@ -74,8 +74,7 @@ My focus is on understanding how systems are monitored, secured, and analyzed to
 
 ### 🚀 Projects & Learning Path  
 - 🧠 **Blue Team Notes** — My cybersecurity repository with structured notes, scripts, and detections.  
-- 📘 **Thawrat Al-Dakhil (The Income Revolution)** — A personal finance book under development.  
-- 🧩 **Oracle Deck Project** — A digital art and spirituality project exploring symbolic systems.  
+  
 
 
 ---
