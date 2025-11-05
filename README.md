@@ -42,9 +42,19 @@ My focus is on understanding how systems are monitored, secured, and analyzed to
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?logo=microsoftoffice&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?logo=databricks&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=red)
 ![Networking](https://img.shields.io/badge/Networking-228B22?logo=networkx&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?logo=openai&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Multilingual](https://img.shields.io/badge/Multilingual-8A2BE2?logo=google-translate&logoColor=white)
+
+
+
+
 
 
 ---
