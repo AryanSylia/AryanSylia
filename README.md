@@ -40,6 +40,16 @@ My focus is on understanding how systems are monitored, secured, and analyzed to
 > _Note:_ **Current level:** *Junior security analyst in training* — building practical foundations through TryHackMe and hands-on Blue Team labs.
 I learn continuously via **TryHackMe** and Blue Team labs — my goal is to reach **SOC Level 1** competence through hands-on labs and small projects.
 
+| Category | Familiar / Practiced | Currently learning | Planned |
+|---|---:|---:|---:|
+| OS & Platforms | Windows (basic admin), Linux (shell) | — | macOS deeper admin |
+| Scripting | Python (basic), Bash (simple) | — | automation scripts |
+| Learning platforms | TryHackMe (active) | Blue Team Labs | Hack The Box (future) |
+| Network & Logs | Basic network concepts | Wireshark basics, log reading | SIEM (ELK / Splunk) |
+| Security concepts | Cyber hygiene, hardening basics | Incident triage, alert investigation | Detection rules, threat hunting |
+| Productivity | Notion, MS365, Git (basic) | — | — |
+
+
 ---
 
 ### 🎓 Education & Certifications  
