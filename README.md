@@ -55,7 +55,7 @@ My focus is on understanding how systems are monitored, secured, and analyzed to
 ---
 
 ### 🎓 Education & Certifications  
-- **CVO Pro – Adult Education, Aalst (2020–Present)**  
+- **CVO Pro – Adult Education, Aalst (2020–2025)**  
   Dutch Language Program (Level B1)  
 - **ICT Foundations** – Basic Principles of Information Technology  
 - **Certificate: Dutch as a Second Language – Secundair Onderwijs (June 2021)**  
